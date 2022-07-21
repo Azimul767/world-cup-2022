@@ -369,7 +369,7 @@ align-items: center;
     .show-box {
         display: flex;
         flex-direction: column;
-        width: 290px;
+        width: 280px;
         height: 472px;
     }
     .show-box h1 {
@@ -391,7 +391,7 @@ align-items: center;
         width: 100%;
     }
     .show-box-image img {
-        width: 55%;
+        width: 60%;
         padding-left: 37px;
     }
     .section-blog {
