@@ -102,6 +102,16 @@ body {
     color: black;
 }
 
+.side-nav ul li:hover {
+    transition-duration: .5s;
+    background-color: #DD0000;
+   
+}
+
+.side-nav ul li:hover a {
+    color: white;
+}
+
 #blog {
     background-color: red;
 }
@@ -123,7 +133,7 @@ body {
 }
 
 .match-title {
-    padding-left: 10px;
+    padding-left: 20px;
 }
 .match-title .category {
     font-weight: 500;
