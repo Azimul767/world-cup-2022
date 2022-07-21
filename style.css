@@ -365,7 +365,9 @@ align-items: center;
 
 @media screen and (max-width:440px) {
     
-
+.thumbnail Img {
+    width: 100%;
+}
     .show-box {
         display: flex;
         flex-direction: column;
