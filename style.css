@@ -369,7 +369,7 @@ align-items: center;
     .show-box {
         display: flex;
         flex-direction: column;
-        width: 334px;
+        width: 290px;
         height: 472px;
     }
     .show-box h1 {
